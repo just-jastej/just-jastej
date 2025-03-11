@@ -22,16 +22,22 @@
 ![Total Contributions](https://github-readme-streak-stats.herokuapp.com/?user=just-jastej&theme=radical)  
 
 ## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&label=)](https://www.linkedin.com/in/just-jastej)  
-[![Instagram](https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=instagram&logoColor=white&label=)](https://www.instagram.com/just-jastej)  
-[![Gmail](https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white&label=)](mailto:your.email@example.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/just-jastej)  
+
+<a href="https://www.linkedin.com/in/jastej-singh1">
+  <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" width="30" height="30">
+</a>  
+<a href="https://www.instagram.com/_jastejsingh_">
+  <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg" width="30" height="30">
+</a>   
+
 
 ## 🛠 Languages and Tools  
-![HTML5](https://img.shields.io/badge/-HTML5?style=flat&logo=html5)  
-![CSS3](https://img.shields.io/badge/-CSS3?style=flat&logo=css3)  
-![JavaScript](https://img.shields.io/badge/-JavaScript?style=flat&logo=javascript)  
-![Node.js](https://img.shields.io/badge/-Node.js?style=flat&logo=node.js)  
-![React](https://img.shields.io/badge/-React?style=flat&logo=react)  
-![Next.js](https://img.shields.io/badge/-Next.js?style=flat&logo=next.js)  
-![Git](https://img.shields.io/badge/-Git?style=flat&logo=git)  
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+</p>
