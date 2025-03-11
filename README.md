@@ -3,10 +3,14 @@
 💻 **Computer Science Engineering Student** | 🚀 **AI Enthusiast** | 🎨 **Full-Stack Developer**  
 
 ## 🌟 About Me  
-🔹 Passionate about the intersection of **Artificial Intelligence & Web Development** and  Enthusiastic about **building dynamic and scalable applications**
+🔹 Passionate about the intersection of **Artificial Intelligence & Web Development** and building dynamic and scalable applications
+
 🔹 Skilled in **Node.js, Express.js, React.js, Next.js, Tailwind CSS**  
+
 🔹 Currently learning **AI-powered Web Applications**  
+
 🔹 Fun Fact about me is **I like music and enjoy exploring different genres**.  
+
 📫 How to reach me: jastejsingh.chandhok@gmail.com  
 
 ## 🚀 Tech Stack & Skills  
